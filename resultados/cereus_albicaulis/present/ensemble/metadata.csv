@@ -1,0 +1,2 @@
+"","species_name","algorithms","which_ensemble","which_final","performance_metric","dismo_threshold","consensus_level","scale_models","uncertainty"
+"1","cereus_albicaulis","bioclim-glm","average","raw_mean","TSSmax","spec_sens",NA,"yes","no"
